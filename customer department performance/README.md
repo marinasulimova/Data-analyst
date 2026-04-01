@@ -1,7 +1,12 @@
 # **Customer service department’s performance** #
 
 ## Short description 
-A report of customer service department's performance. Used data from online telephony. Used instruments: Excel for cleaning and wrangling. Dax for counting. Power BI for visualization.
+A report of customer service department's performance.   
+### Used data from online telephony.  
+### Used instruments: 
+Excel for cleaning and wrangling.   
+Dax for counting.   
+Power BI for visualization.  
 
 ## Business problem: 
 Low Order Volume from Individual Clients despite High Workload on Client Department Managers.  
