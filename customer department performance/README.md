@@ -2,7 +2,7 @@
 
 ## Visialization:
 [Dashboadrs in Power BI](https://github.com/marinasulimova/Data-analyst/blob/main/customer%20department%20performance/customer%20department%20performance.pbix)  
-[dashboards in pdf](https://github.com/marinasulimova/Data-analyst/blob/main/customer%20department%20performance/customer%20department%20performance.pdf)  
+[Dashboards in pdf](https://github.com/marinasulimova/Data-analyst/blob/main/customer%20department%20performance/customer%20department%20performance.pdf)  
 
 ## Short description of a project
 A report of customer service department's performance.   
