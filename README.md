@@ -2,7 +2,7 @@
 Hello. I am Sulimova Marina and I'm a Data analyst with 3 years experience as solo analyst at Healthcare industry.
 
 ## My projects:
-[customer department performance](https://github.com/marinasulimova/Data-analyst/tree/main/customer%20department%20performance)  
+[Customer department performance](https://github.com/marinasulimova/Data-analyst/tree/main/customer%20department%20performance)  
 
 ## About me:
 I taught management to make data-driven decisions through trusted data and clear analysis and utilize such useful instrument as Power BI.
