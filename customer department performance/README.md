@@ -2,7 +2,8 @@
 
 ## Short description 
 A report of customer service department's performance.   
-### Used data from online telephony.  
+### Used data: 
+online telephony.  
 ### Used instruments: 
 Excel for cleaning and wrangling.   
 Dax for counting.   
