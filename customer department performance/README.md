@@ -1,6 +1,6 @@
 # **Customer service department’s performance** #
 
-## Visialization:
+## Visualization:
 [Dashboadrs in Power BI](https://github.com/marinasulimova/Data-analyst/blob/main/customer%20department%20performance/customer%20department%20performance.pbix)  
 [Dashboards in pdf](https://github.com/marinasulimova/Data-analyst/blob/main/customer%20department%20performance/customer%20department%20performance.pdf)  
 
