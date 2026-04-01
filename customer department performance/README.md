@@ -4,21 +4,15 @@ Short description
 
 A report of customer service department's performance. Used data from online telephony. Used instruments: Excel for cleaning and wrangling. Dax for counting. Power BI for visualization.
 
-README
-
 Business problem: Low Order Volume from Individual Clients despite High Workload on Client Department Managers.
 
 The combination of low individual customer orders and high managerial workload points to structural inefficiencies within the client department. Current processes may not be optimized to handle customer interactions effectively, leading to wasted effort and reduced overall productivity.
-
-
 
 Background: Previous reports, managed by a Head of Customer Service Department, have not reflect the whole story of department's performance.
 
 Project objective: To evaluate the dynamics of the key performance indicators of the company’s client department from January 2024 through July 2025, identify the factors influencing the level of customer service, and determine potential directions for process optimization.
 
 Project tasks:
-
-
 
 Compare the number of answered and missed calls by month in 2024 and 2025, with a focus on the share of missed inquiries.
 
